@@ -1,0 +1,17 @@
+{
+  "name": "piglatin",
+  "version": "0.1.2",
+  "description": "Text to pig-latin",
+  "homepage": "https://github.com/montanaflynn/piglatin",
+  "main": "piglatin.js",
+  "scripts": {
+    "test": "./pig hello world"
+  },
+  "keywords": [
+    "pig",
+    "latin",
+    "translate"
+  ],
+  "author": "Montana Flynn",
+  "license": "GPL"
+}
